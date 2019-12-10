@@ -13,12 +13,14 @@ In this project, we first tried dataset from provided by our client: assessors d
 * new all business.csv (all businesses from Reference USA)
 
 ### Data Preprocessing
-* Folder Cleaned Data 2018:
+Folder Cleaned Data 2018:
+* Data Cleaning 1.py: Compile addresses and parcel ID from the assessors database of all commercial and mixed use parcels (LU: C and RC)
+* Data Cleaning 2.py: 
 
-Data Cleaning 1.py: Compile addresses and parcel ID from the assessors database of all commercial and mixed use parcels (LU: C and RC)
-Data Cleaning 2.py: 
-   o	Narrowed geographical regions in scope, focus on the following neighborhoods: Roxbury, Mattapan, Dorchester and East Boston
-   o	Capture following attributes on all commercial and mixed use properties
-     	owner, owner address, street, city, state, zip
-     	Assessed building value, total value, tax
-     	Parcel land area, year built, year remodeled, gross area
+Narrowed geographical regions in scope, focus on the following neighborhoods: Roxbury, Mattapan, Dorchester and East Boston
+
+Capture following attributes on all commercial and mixed use properties
+
+   owner, owner address, street, city, state, zip
+   Assessed building value, total value, tax
+   Parcel land area, year built, year remodeled, gross area
