@@ -52,6 +52,8 @@ This code is to draw heatmaps that show the geographical locations of closed bus
 
 ### Predicative Modeling (Folder: Pridiction Code)
 
-These codes are used to build predicative models such as decision trees, logistic regression and random forest for closed businesses. Eleven attributes are selected for prediction.
+These codes are used to prepare the dataset to build predicative models such as decision trees, logistic regression and random forest for closed businesses. Eleven attributes are selected for prediction.
+
+In the folder, you should try "Clean_for_Prediction_New .ipynb", which has the latest comments of what the code means. After cleaning the file, we put the file in Weka and train the model. The final result is in our report, written as the form of table.
 
 
