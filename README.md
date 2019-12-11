@@ -38,10 +38,6 @@ Due to some limitations in the first dataset, we then used dataset from Referenc
 
 The code in this file handles data cleaning process and calculation based on the original dataset "new all business.csv". The resulting dataset after cleaning is saved as "new_all_business_cleaned.csv".
 
-* Gender.ipynb and gender analysis.py
-
-This code cleaned and count the genders of closed business owners. The result is used to draw bar graphs.
-
 * bar graph.ipynb
 
 This code is to clean and visualized the data into bar graphs and pie charts. We created graphs to demonstrate trends of closed businesses such as the number of closed businesses in specific areas and neighborhoods, the enithcity and gender of owner's, and etc. 
