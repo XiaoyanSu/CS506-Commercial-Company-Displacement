@@ -25,7 +25,7 @@ Folder: Cleand Data 2019
 * Data Preprocessing.ipynb: Also done the same cleaning job as the above two .py files.
 
 ### Reference USA Datasets (Folder: Reference USA Data)
-Due to some limitations in the first dataset, we then used dataset from Reference USA for our data visualization and prediction. Original and cleaned databases all located in Reference USA Data folder.
+Due to some limitations in the first dataset, we then used dataset from Reference USA for our data visualization and prediction. Original and cleaned databases all located in Reference USA Data folder. (Datasets are downloaded from this website: http://www.referenceusa.com/Home/Home)
 
 * Combined Closed Business.csv (only includes closed businesses from Reference USA)
 * new all business.csv (all businesses from Reference USA)
